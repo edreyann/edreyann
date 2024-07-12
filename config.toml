@@ -60,7 +60,7 @@ googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
 # Header Settings
 [params.header]
 logo_image = "images/logo_main.png" 
-logo_text = "Edreyann <br />Iniego"
+logo_text = "Eyann <br />Iniego"
 logo_alt = "Edreyann Iniego"
 button_text = "Download CV"
 button_url = "files/Resume-Template.pdf"
