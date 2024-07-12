@@ -6,7 +6,7 @@
 ### Hero Image 1 - 3 [ heroImage1Section, heroImage2Section, heroImage3Section ]
 hero_image1:
   enable: true
-  image: "images/man.jpg"
+  image: "images/edreyann.jpg"
 
 hero_image2:
   enable: true
