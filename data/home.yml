@@ -14,7 +14,7 @@ hero_image2:
 
 hero_image3:
   enable: true
-  image: "images/girl3.jpg"
+  image: "images/edreyann.jpg"
 
 ### Hero Video
 hero_video:
