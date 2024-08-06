@@ -106,6 +106,9 @@ slug = "web-design"
 [[params.portfolio.filters]]
 name = "WordPress"
 slug = "wordpress"
+[[params.portfolio.filters]]
+name = "Creative Ads"
+slug = "creative-ads"
 
 
 
