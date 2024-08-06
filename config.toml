@@ -59,7 +59,7 @@ skinColor = "" #PREDEFINED COLOR SCHEMES: [ "beige", "blue", "brown", "green_lig
 dateFormat = "January 2, 2006"
 authorName = "Edreyann Iniego"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeURL = "" #YOUR FORMSPREE URL
+formspreeURL = "https://formspree.io/f/xrbzkgbp" #YOUR FORMSPREE URL
 googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
 
 # Header Settings
@@ -120,3 +120,5 @@ filename = "sitemap.xml"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+
