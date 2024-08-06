@@ -310,8 +310,8 @@ testimonials:
 
 ### Clients [ clientSection ]
 clients:
-  enable: false
-  title: "Clients"
+  enable: true
+  title: "Projects"
   subtitle: "My partners"
   items:
     - url: "https://www.bslthemes.site"
