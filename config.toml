@@ -103,6 +103,10 @@ homeNumOfItems = 12
 [[params.portfolio.filters]]
 name = "Web Design"
 slug = "web-design"
+[[params.portfolio.filters]]
+name = "Creative Ads"
+slug = "creative-ads"
+
 
 
 # Sitemap Settings
