@@ -2,7 +2,7 @@
 title: e-ran
 category: Web Design
 category_slug: f-web
-type: web
+type: Web Design
 image: images/works/work5.jpg
 gallery:
   - images/works/work5.jpg
