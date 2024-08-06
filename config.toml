@@ -101,7 +101,7 @@ tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 [params.portfolio]
 homeNumOfItems = 12
 [[params.portfolio.filters]]
-name = "Website"
+name = "Web Design"
 slug = "f-web"
 [[params.portfolio.filters]]
 name = "WordPress"
