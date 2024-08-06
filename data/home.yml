@@ -245,7 +245,7 @@ skills:
           text: "Built dynamic web applications using PHP and MySQL, enhancing website functionality and database management."
 
         - label: "JavaScript"
-          value: "85" #0-100 progress in %
+          value: "75" #0-100 progress in %
           text: "Implemented dynamic features and functionality using JavaScript, improving user interactivity."
 
         - label: "Bootstrap"
