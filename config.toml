@@ -103,18 +103,7 @@ homeNumOfItems = 12
 [[params.portfolio.filters]]
 name = "Web Design"
 slug = "web-design"
-[[params.portfolio.filters]]
-name = "WordPress"
-slug = "f-wordpress"
-[[params.portfolio.filters]]
-name = "Creative Ads"
-slug = "f-ads"
-[[params.portfolio.filters]]
-name = "Logo Design"
-slug = "f-logo"
-[[params.portfolio.filters]]
-name = "Promotional Video"
-slug = "f-video"
+
 
 # Sitemap Settings
 [sitemap]
