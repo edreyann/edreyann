@@ -90,8 +90,8 @@ services:
       text: "Advertising Management though is a complex process of employing various media to sell a product or service."
 
     - icon: "fas fa-brush"
-      name: "Web <br />Development"
-      text: "The web development process includes: web design, web content, client-side / server-side scripting and network security configuration."
+      name: "UI/UX <br />Design"
+      text: "Utilized Figma for UX design, creating wireframes, interactive prototypes, and high-fidelity mockups to enhance the user experience."
 
     - icon: "fas fa-headphones"
       name: "Music <br />Writing"
