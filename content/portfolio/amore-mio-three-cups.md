@@ -1,7 +1,7 @@
 ---
 title: Amore Mio Three Cups
-category: Web Design
-category_slug: web-design
+category: Gallery
+category_slug: f-gallery
 image: images/works/work5.jpg
 gallery:
   - images/works/work5.jpg
