@@ -99,7 +99,7 @@ services:
 
 ### Pricing [ pricingSection ]
 pricing:
-  enable: true
+  enable: false
   title: "Pricing"
   subtitle: "My Plans"
   items:
