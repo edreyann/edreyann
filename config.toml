@@ -35,23 +35,7 @@ DefaultContentLanguage = "en"
   name = "Contacts"
   url = "#section-contacts"
   weight = 5
-[[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/blog/"
-  weight = 6
-  [[menu.main]]
-    identifier = "pages-blog-list"
-    parent = "blog"
-    name = "Blog List"
-    url = "/blog/"
-    weight = 1
-  [[menu.main]]
-    identifier = "pages-blog-single"
-    parent = "blog"
-    name = "Blog Single"
-    url = "/blog/designer-conference-at-florida-2020/"
-    weight = 2
+
 
 # Main Settings
 [params]
