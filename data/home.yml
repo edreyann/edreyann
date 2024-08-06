@@ -171,21 +171,18 @@ resume:
     title: "Experience"
     subtitle: "Working with"
     items:
-      - year: "Present"
-        name: "The Turin <br />Olympics"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      - year: "2019-Present"
+        name: "Diverse System Solutions"
+        text: "Web & Graphic Designer"
 
-      - year: "2016-2018"
-        name: "Red <br />Drifting"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      - year: "2017-2019"
+        name: "SITA"
+        text: "Customer Support Engineer"
 
-      - year: "2014-2016"
-        name: "World <br />Economy"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      - year: "2015-2017"
+        name: "RC_ARINC"
+        text: "Customer Support Engineer"
 
-      - year: "2012-2014"
-        name: "Art Director <br />Facedevs"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
 
   education:
     title: "Education"
