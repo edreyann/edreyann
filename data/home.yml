@@ -204,19 +204,19 @@ skills:
       items:
         - label: "Web Layout"
           value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+          text: "Created and maintained visually appealing, user-friendly websites "
 
         - label: "Illustrations"
           value: "70" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+          text: "Designed custom graphics and visuals using Adobe Creative Suite (Photoshop, Illustrator) to support web content and marketing campaigns."
 
         - label: "Photoshop"
           value: "95" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+          text: "Designed custom graphics and visuals using Adobe Creative Suite (Photoshop, Illustrator) to support web content and marketing campaigns."
 
         - label: "Graphic Design"
           value: "85" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+          text: "Designed custom graphics and visuals using Adobe Creative Suite (Photoshop, Illustrator) to support web content and marketing campaigns."
 
     - type: "dotted" #skills progress type - default, dotted, circles
       title: "Language Skills"
@@ -225,10 +225,10 @@ skills:
       items:
         - label: "Tagalog"
           value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+          text: "Fluent in Tagalog, enabling effective communication with Tagalog-speaking clients and stakeholders."
         - label: "English"
           value: "80" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+          text: "Fluent in Tagalog and English, enabling effective communication with diverse clients and stakeholders."
 
 
     - type: "circles" #skills progress type - default, dotted, circles
@@ -238,23 +238,23 @@ skills:
       items:
         - label: "WordPress"
           value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+          text: "Developed and customized WordPress websites, ensuring ease of content management for clients."
 
         - label: "PHP, MYSQL"
           value: "75" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+          text: "Built dynamic web applications using PHP and MySQL, enhancing website functionality and database management."
 
         - label: "JavaScript"
           value: "85" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+          text: "Implemented dynamic features and functionality using JavaScript, improving user interactivity."
 
         - label: "Bootstrap"
           value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+          text: "Utilized Bootstrap to design and develop responsive, mobile-first websites efficiently."
 
         - label: "HTML, CSS"
           value: "95" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+          text: "Developed interactive UI elements using HTML and CSS, enhancing user engagement and site functionality."
 
 ### Testimonials [ testimonialSection ]
 testimonials:
