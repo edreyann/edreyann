@@ -86,24 +86,20 @@ services:
       text: "The web development process includes: web design, web content, client-side / server-side scripting and network security configuration."
 
     - icon: "fas fa-ad"
-      name: "Logo <br />& Creative Ads"
+      name: "Creative <br /> Ads"
       text: "Designed custom graphics and visuals using Adobe Creative Suite (Photoshop, Illustrator, After effects) to support web content and marketing campaigns."
 
     - icon: "fas fa-brush"
       name: "UI/UX <br />Design"
       text: "Utilized Figma for UX design, creating wireframes, interactive prototypes, and high-fidelity mockups to enhance the user experience."
 
-    - icon: "fas fa-headphones"
-      name: "Logo <br />Writing"
-      text: "Sheet music is the basic form in which Western classical music is notated so that it can be learned and performed by solo singers."
-
-    - icon: "fas fa-gamepad"
-      name: "Game <br />Development"
-      text: "Come Up With a Game Idea. An idea is the first thing that comes to mind when a game is being described before creating."
+    - icon: "fas fa-palette"
+      name: "Logo <br />Design"
+      text: "Created logos to establish and strengthen brand identity for various clients."
 
     - icon: "fas fa-video"
-      name: "Photography <br />& Video"
-      text: "Sessions. If you are a photographer that spends most of the time in a portrait studio, you can charge for your session."
+      name: "Promotional <br />& Infographic Video"
+      text: "Produced engaging infographic videos using Adobe After Effects to effectively communicate complex information."
 
 ### Pricing [ pricingSection ]
 pricing:
