@@ -47,7 +47,15 @@ about:
   enable: true
   title: "About Me"
   subtitle: "My story"
-  text: "<p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.</p><p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.</p>"
+  text: "<p>Hello! I'm a dedicated Web and Graphic Designer with four years of professional experience at Diverse System Solutions. My journey in design has been driven by a passion for creating visually striking and functional web interfaces. I specialize in translating complex ideas into clear, aesthetically pleasing designs that enhance user experience and engagement.
+
+At Diverse System Solutions, I have honed my skills in a variety of design tools and technologies, enabling me to tackle a wide range of projects from concept to completion. My work is characterized by a keen eye for detail, a strong sense of typography, color theory, and a commitment to staying updated with the latest design trends and technologies.
+
+I thrive in collaborative environments, working closely with clients and team members to bring their visions to life. Whether it's designing a sleek website, developing a brand identity, or creating engaging digital graphics, I strive to deliver exceptional results that exceed expectations.
+
+Outside of work, I am continually exploring new design trends and techniques, always eager to learn and grow. My goal is to push the boundaries of creativity and innovation in every project I undertake.
+
+Feel free to reach out to me if you have a project in mind or just want to connect!</p>"
   list:
     - label: "Age"
       value: "31"
