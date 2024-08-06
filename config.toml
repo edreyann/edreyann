@@ -105,16 +105,16 @@ name = "Website"
 slug = "f-web"
 [[params.portfolio.filters]]
 name = "WordPress"
-slug = "f-music"
+slug = "f-wordpress"
 [[params.portfolio.filters]]
 name = "Creative Ads"
-slug = "f-link"
+slug = "f-ads"
 [[params.portfolio.filters]]
 name = "Logo Design"
-slug = "f-image"
+slug = "f-logo"
 [[params.portfolio.filters]]
 name = "Promotional Video"
-slug = "f-gallery"
+slug = "f-video"
 
 # Sitemap Settings
 [sitemap]
