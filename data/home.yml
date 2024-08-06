@@ -86,7 +86,7 @@ services:
       text: "The web development process includes: web design, web content, client-side / server-side scripting and network security configuration."
 
     - icon: "fas fa-ad"
-      name: "Creative <br />& Ads"
+      name: "Logo <br />& Creative Ads"
       text: "Designed custom graphics and visuals using Adobe Creative Suite (Photoshop, Illustrator, After effects) to support web content and marketing campaigns."
 
     - icon: "fas fa-brush"
@@ -94,7 +94,7 @@ services:
       text: "Utilized Figma for UX design, creating wireframes, interactive prototypes, and high-fidelity mockups to enhance the user experience."
 
     - icon: "fas fa-headphones"
-      name: "Music <br />Writing"
+      name: "Logo <br />Writing"
       text: "Sheet music is the basic form in which Western classical music is notated so that it can be learned and performed by solo singers."
 
     - icon: "fas fa-gamepad"
