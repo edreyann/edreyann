@@ -276,7 +276,7 @@ skills:
 
 ### Testimonials [ testimonialSection ]
 testimonials:
-  enable: true
+  enable: false
   title: "Reviews"
   subtitle: "What customers say"
   items:
