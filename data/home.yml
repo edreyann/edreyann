@@ -86,8 +86,8 @@ services:
       text: "The web development process includes: web design, web content, client-side / server-side scripting and network security configuration."
 
     - icon: "fas fa-ad"
-      name: "Marketing <br />& Advertising"
-      text: "Advertising Management though is a complex process of employing various media to sell a product or service."
+      name: "Creative <br />& Ads"
+      text: "Designed custom graphics and visuals using Adobe Creative Suite (Photoshop, Illustrator, After effects) to support web content and marketing campaigns."
 
     - icon: "fas fa-brush"
       name: "UI/UX <br />Design"
