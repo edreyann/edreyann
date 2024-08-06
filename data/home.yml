@@ -172,16 +172,16 @@ resume:
     subtitle: "Working with"
     items:
       - year: "Present"
-        name: "Diverse System Solutions"
-        text: "Web & Graphic Designer"
+        name: "Web & Graphic Designer"
+        text: "Diverse System Solutions"
 
       - year: "2017-2019"
-        name: "SITA"
-        text: "Customer Support Engineer"
+        name: "Customer Support Engineer"
+        text: "SITA"
 
       - year: "2015-2017"
-        name: "RC_ARINC"
-        text: "Customer Support Engineer"
+        name: "Customer Support Engineer"
+        text: "RC_ARINC"
 
 
   education:
@@ -223,21 +223,13 @@ skills:
       subtitle: "Reading and writing"
       slug: "lang"
       items:
-        - label: "English"
+        - label: "Tagalog"
           value: "90" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
-
-        - label: "German"
-          value: "70" #0-100 progress in %
+        - label: "English"
+          value: "80" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
-        - label: "Italian"
-          value: "55" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
-
-        - label: "French"
-          value: "85" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
     - type: "circles" #skills progress type - default, dotted, circles
       title: "Coding Skills"
@@ -256,16 +248,12 @@ skills:
           value: "85" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
-        - label: "Angular"
-          value: "80" #0-100 progress in %
+        - label: "Bootstrap"
+          value: "90" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
         - label: "HTML, CSS"
           value: "95" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "Python"
-          value: "90" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
 ### Testimonials [ testimonialSection ]
