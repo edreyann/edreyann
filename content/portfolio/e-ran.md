@@ -1,8 +1,7 @@
 ---
 title: e-ran
 category: Web Design
-category_slug: f-web
-type: Web Design
+category_slug: web-design
 image: images/works/work5.jpg
 gallery:
   - images/works/work5.jpg
