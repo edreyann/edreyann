@@ -310,7 +310,7 @@ testimonials:
 
 ### Clients [ clientSection ]
 clients:
-  enable: true
+  enable: false
   title: "Projects"
   subtitle: "My partners"
   items:
