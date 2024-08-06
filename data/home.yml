@@ -59,13 +59,13 @@ about:
       value: "Available"
 
     - label: "Address"
-      value: "San Francisco"
+      value: "SJDM Bulacan"
 
     - label: "Phone"
-      value: "+1 256 254 84 56"
+      value: "+63 915 455 9440"
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "iniego21@gmail.com"
 
 ### Services [ serviceSection ]
 services:
