@@ -213,6 +213,14 @@ skills:
         - label: "Photoshop"
           value: "95" #0-100 progress in %
           text: "Designed custom graphics and visuals using Adobe Creative Suite (Photoshop, Illustrator) to support web content and marketing campaigns."
+        
+        - label: "After Effects"
+          value: "85" #0-100 progress in %
+          text: "Produced engaging infographic videos using Adobe After Effects to effectively communicate complex information."
+
+        - label: "Figma"
+          value: "90" #0-100 progress in %
+          text: "Utilized Figma for UI/UX design, creating wireframes, interactive prototypes, and high-fidelity mockups to enhance the user experience."
 
         - label: "Graphic Design"
           value: "85" #0-100 progress in %
