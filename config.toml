@@ -58,9 +58,9 @@ button_download = true
 
 # Social Settings
 [[params.social]]
-title = "Twitter"
-icon = "fab fa-twitter"
-url = "https://www.twitter.com/"
+title = "Linkedin"
+icon = "fab fa-linkedin"
+url = "https://www.linkedin.com/in/edreyann-iniego/"
 weight = 1
 [[params.social]]
 title = "Dribbble"
