@@ -1,7 +1,7 @@
 ---
 title: e-ran creatives
-category: Creative Ads
-category_slug: creative-ads
+category: -Creative Ads
+category_slug: -creative-ads
 type: gallery
 image: images/works/e-ran-creatives.png
 gallery:
