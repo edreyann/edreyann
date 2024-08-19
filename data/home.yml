@@ -235,7 +235,7 @@ skills:
           value: "90" #0-100 progress in %
           text: "Fluent in Tagalog, enabling effective communication with Tagalog-speaking clients and stakeholders."
         - label: "English"
-          value: "80" #0-100 progress in %
+          value: "70" #0-100 progress in %
           text: "Fluent in Tagalog and English, enabling effective communication with diverse clients and stakeholders."
 
 
