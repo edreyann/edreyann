@@ -91,6 +91,9 @@ slug = "web-design"
 name = "WordPress"
 slug = "wordpress"
 [[params.portfolio.filters]]
+name = "Figma Design"
+slug = "figma"
+[[params.portfolio.filters]]
 name = "Creative Ads"
 slug = "creative-ads"
 
