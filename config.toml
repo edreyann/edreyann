@@ -82,8 +82,7 @@ categories = 1 #SIDEBAR CATEGORIES TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 
 # Portfolio Settings
-[params.portfolio]
-homeNumOfItems = 12
+
 [[params.portfolio.filters]]
 name = "Web Design"
 slug = "web-design"
