@@ -82,14 +82,15 @@ categories = 1 #SIDEBAR CATEGORIES TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 
 # Portfolio Settings
-[params.portfolio]
-homeNumOfItems = 12
 [[params.portfolio.filters]]
 name = "Web Design"
 slug = "web-design"
 [[params.portfolio.filters]]
 name = "WordPress"
 slug = "wordpress"
+[[params.portfolio.filters]]
+name = "Figma"
+slug = "figma"
 [[params.portfolio.filters]]
 name = "Creative Ads"
 slug = "creative-ads"
