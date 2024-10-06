@@ -94,6 +94,9 @@ slug = "figma"
 [[params.portfolio.filters]]
 name = "Creative Ads"
 slug = "creative-ads"
+[[params.portfolio.filters]]
+name = "Video"
+slug = "video-ads"
 
 
 
