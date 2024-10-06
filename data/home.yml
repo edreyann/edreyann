@@ -336,8 +336,8 @@ contacts:
   subname: "Web and Graphic Designer"
   signature: "Iniego"
   list:
-    - label: "Age:"
-      value: "31"
+    - label: "Birthday:"
+      value: "September 21, 1992"
 
     - label: "Residence:"
       value: "Philippines"
