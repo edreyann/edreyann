@@ -57,8 +57,8 @@ about:
 
 <p>Feel free to reach out to me if you have a project in mind or just want to connect!</p>"
   list:
-    - label: "Age"
-      value: "31"
+    - label: "Birthday"
+      value: "September 21, 1992"
 
     - label: "Residence"
       value: "Philippines"
