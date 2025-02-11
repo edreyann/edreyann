@@ -1,5 +1,5 @@
 ---
-title: Traces Mobile App
+title: Traces App Design
 category: Figma Design
 category_slug: figma
 type: content
